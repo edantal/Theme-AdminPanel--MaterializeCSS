@@ -4,3 +4,13 @@
   top: 40%;
   left: 47%;
 }
+
+.login {
+  margin: 70px auto;
+}
+
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: 20px auto 0;
+}
